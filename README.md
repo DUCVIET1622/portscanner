@@ -1,3 +1,4 @@
+
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python" />
   <img src="https://img.shields.io/badge/Kali_Linux-Compatible-557C94?style=for-the-badge&logo=kali-linux" />
@@ -28,6 +29,11 @@
 - 🔹 Xử lý exception và lỗi mạng
 
 ---
+
+<img width="600" height="500" alt="Ảnh chụp màn hình 2026-05-05 153532" src="https://github.com/user-attachments/assets/034b3500-b5ed-45f7-bd86-8fdbff54ea1f" />
+
+
+
 
 ## Tính năng
 
