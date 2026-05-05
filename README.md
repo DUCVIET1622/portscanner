@@ -34,6 +34,10 @@
 
 
 
+<img width="700" height="700" alt="Ảnh chụp màn hình 2026-05-05 200312" src="https://github.com/user-attachments/assets/79694e6b-d87a-4b74-8dc2-86cd80b1bf99" />
+
+
+
 
 ## Tính năng
 
