@@ -62,10 +62,10 @@
 
 ---
 
-## Hướng dẫn sử dụng: tự tìm hiểu đi :)
+## Hướng dẫn sử dụng:
 
 
-## Tài liệu mà các tình iu có thể xem qua:
+## Tài liệu 
 
 - Python socket documentation: https://docs.python.org/3/library/socket.html
 - Nmap: https://nmap.org/
